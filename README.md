@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-👋 Hi there!!, I’m Nima Mohammadi a Ph.D. student in Aplied Mathematics(financial mathematics) within Amirkabir University of Technology, Iran.
+👋 Hi there!!, I’m Nima Mohammadi a Ph.D. student in Applied Mathematics(financial mathematics) within Amirkabir University of Technology, Iran.
 
 👀 I’m interested in machine learning research in finance and numerical analysis.
 
