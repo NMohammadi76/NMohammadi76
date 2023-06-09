@@ -6,4 +6,4 @@
 
 🌱 I’m currently working on *Time series forecasting and solving PDEs(or PIDEs) models with deep learning* 
 
-📫 How to reach me: https://t.me/Nima_Mohammadi7
+📫 How to reach me: https://t.me/Nima_Mohammadi97
