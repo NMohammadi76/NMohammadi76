@@ -4,6 +4,6 @@
 
 👀 I’m interested in machine learning research in finance and numerical analysis.
 
-🌱 I’m currently working on *Time series forecasting with deep learning,* *use numerical method for solve PDE models*
+🌱 I’m currently working on *Time series forecasting and solving PDE(or PIDE) models with deep learning* 
 
 📫 How to reach me: https://t.me/Nima_Mohammadi7
